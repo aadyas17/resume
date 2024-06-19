@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.15)  15 JUN 2024 10:15
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.19)  19 JUN 2024 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -107,7 +107,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 
 (/usr/local/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2024/05/23 v2.6c Tabular extension package (FMi)
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen150
 \ar@mcellbox=\box52
 \extrarowheight=\dimen151
@@ -360,8 +360,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip64
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 27.
-Package hyperref Info: Option `breaklinks' set `true' on input line 27.
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+Package hyperref Info: Option `breaklinks' set `true' on input line 26.
 
 (/usr/local/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 (/usr/local/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -412,31 +412,31 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 (out/resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-2.
+0.
  (/usr/local/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -472,10 +472,30 @@ LaTeX Font Info:    ... okay on input line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 32.
+Package hyperref Info: Link coloring ON on input line 30.
 (out/resume.out) (out/resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 130--132
+\TU/lmr/m/n/10 Segregates waste into recyclable and non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+[][]$[][][][][] [] [] [] [][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+[][][] [] [][][][][][][][][] []
+ []
+
+
+Overfull \hbox (25.20096pt too wide) in paragraph at lines 138--140
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[][] 
+ []
 
 
 
@@ -490,11 +510,11 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: FE441E329D4B0AABB798BEB7BD2BE52A;438.
  ) 
 Here is how much of TeX's memory you used:
- 11940 strings out of 476212
- 183974 string characters out of 5786566
- 1937557 words of memory out of 5000000
- 34331 multiletter control sequences out of 15000+600000
- 558541 words of font info for 51 fonts, out of 8000000 for 9000
+ 11945 strings out of 476212
+ 184052 string characters out of 5786566
+ 1932557 words of memory out of 5000000
+ 34334 multiletter control sequences out of 15000+600000
+ 558549 words of font info for 52 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  69i,9n,80p,1200b,321s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
